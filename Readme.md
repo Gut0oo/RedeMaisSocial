@@ -5,5 +5,6 @@
 ## Funcionalidades
 
 ## Ferramentas
+- Java 
+- MySQL
 - 
--
