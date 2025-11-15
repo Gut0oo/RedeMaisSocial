@@ -15,9 +15,9 @@ public class EntidadeDAO {
 
         try {
             ps = DatabaseConnection.getConnect().prepareStatement(sqlScript);
-            ps.setInt(1, 1);
-            ps.setString(2, "nome");
-            ps.setObject(3, "contato");
+            ps.setInt(1, enti.getId());
+            ps.setString(2, enti.getNome());
+            ps.setObject(3, enti.getContato());
 
             ps.execute();
             ps.close();

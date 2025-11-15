@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7f43659-df23-4802-9b6b-994051fde797" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../frontend/RedeMaisSocial/src/components/CustomButton.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/RedeMaisSocial/src/components/CustomInput.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/RedeMaisSocial/src/components/info.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/RedeMaisSocial/src/constants/info.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/RedeMaisSocial/src/navigation/AppNavigator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/RedeMaisSocial/src/navigation/info.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/RedeMaisSocial/src/screens/LoginScreen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/RedeMaisSocial/src/screens/info.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/RedeMaisSocial/src/services/info.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/RedeMaisSocial/src/utils/info.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="f7f43659-df23-4802-9b6b-994051fde797" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
