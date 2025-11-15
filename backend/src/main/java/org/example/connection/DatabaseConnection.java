@@ -1,0 +1,28 @@
+package org.example.connection;
+
+import java.sql.DriverManager;
+
+public class DatabaseConnection {
+    private static final String url = "jdbc:mysql://localhost:3306/brredemaissocial"; //endereço do banco de dados
+    private static final String user = "root";
+    private static final String password = "Dev_gustavo123!";
+
+    public static java.sql.Connection conn;
+
+    public static java.sql.Connection getConnect(){//metodo usado para conectar no banco de dados
+        try {
+
+            Class.forName("com.mysql.cj.jdbc.Driver"); //Carrega o driver JDBC do MySQL
+
+            return DriverManager.getConnection( //aqui cria conexão com o banco de dados
+                    url,
+                    user,
+                    password
+            );
+
+        } catch (Exception error){ //erros: senha errada, banco offline, driver não encontrado
+            error.printStackTrace();
+            return null;
+        }
+    }
+}

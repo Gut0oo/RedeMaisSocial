@@ -1,0 +1,1 @@
+pacote que conterá todas as classes que trarão as funcionalidades ao app
