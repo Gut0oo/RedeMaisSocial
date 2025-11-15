@@ -1,0 +1,2 @@
+DAO = DATA ACCESS OBJECt
+Nesse pacote terá metodos que fazer conexão ao BD : inserção, remoção, busca

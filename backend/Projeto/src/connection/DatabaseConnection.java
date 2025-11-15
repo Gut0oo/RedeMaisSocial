@@ -3,9 +3,9 @@ package connection;
 import java.sql.DriverManager;//biblioteca responsavel por trazer conexões com banco de dados pro java
 
 public class DatabaseConnection {
-    private static final String url = ""; //endereço do banco de dados
-    private static final String user = "";
-    private static final String password = "";
+    private static final String url = "jdbc:mysql://localhost:3306/brredemaissocial"; //endereço do banco de dados
+    private static final String user = "root";
+    private static final String password = "Dev_gustavo123!";
 
     public static java.sql.Connection conn;
 
