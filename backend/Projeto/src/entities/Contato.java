@@ -10,6 +10,12 @@ public class Contato {
 
     public Contato(){}
 
+    public Contato(int id, Localizacao loc, Telefone tel) {
+        this.id = id;
+        this.loc = loc;
+        this.tel = tel;
+    }
+
     public int getId() { return id; }
     public void setId(int id) { this.id = id; }
 

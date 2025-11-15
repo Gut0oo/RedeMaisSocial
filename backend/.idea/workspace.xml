@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7f43659-df23-4802-9b6b-994051fde797" name="Changes" comment="" />
+    <list default="true" id="f7f43659-df23-4802-9b6b-994051fde797" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/src/entities/Candidato.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/src/entities/Candidato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/src/entities/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/src/entities/Contato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/src/entities/Entidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/src/entities/Entidade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/src/entities/PF_Info/Identificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/src/entities/PF_Info/Identificacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/src/entities/PJ_Info/Certidoes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/src/entities/PJ_Info/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/src/entities/PJ_Info/Empresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/src/entities/PessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/src/entities/PessoaFisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projeto/src/entities/PessoaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projeto/src/entities/PessoaJuridica.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -43,17 +56,24 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;JAR Application.jakarta.activation-api-2.1.3.jar.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/guto0/Documents/Gustavo Arquivos/Arquivos_guto/programaçao ebaaaaaaaa/Garoto de Programa/Programas Java/Atividades/ProjetoRedeMaisSocial/backend&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/guto0/Documents/Gustavo Arquivos/Arquivos_guto/programaçao ebaaaaaaaa/Garoto de Programa/Programas Java/Atividades/ProjetoRedeMaisSocial/Projeto/src/Main.java&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/guto0/Documents/Gustavo Arquivos/Arquivos_guto/programaçao ebaaaaaaaa/Garoto de Programa/Programas Java/Atividades/ProjetoRedeMaisSocial/backend/lib&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/guto0/Documents/Gustavo Arquivos/Arquivos_guto/programaçao ebaaaaaaaa/Garoto de Programa/Programas Java/Atividades/ProjetoRedeMaisSocial/Projeto/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guto0\Documents\Gustavo Arquivos\Arquivos_guto\programaçao ebaaaaaaaa\Garoto de Programa\Programas Java\Atividades\ProjetoRedeMaisSocial\backend\lib" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\guto0\Documents\Gustavo Arquivos\Arquivos_guto\programaçao ebaaaaaaaa\Garoto de Programa\Programas Java\Atividades\ProjetoRedeMaisSocial\backend\lib" />
     </key>
@@ -80,7 +100,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Projeto/src/Main.java</url>
-          <line>5</line>
+          <line>6</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

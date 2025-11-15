@@ -6,7 +6,12 @@ public class Entidade {
     private Contato contato;
 
     public Entidade(){
+    }
 
+    public Entidade(String nome, int id, Contato contato) {
+        this.nome = nome;
+        this.id = id;
+        this.contato = contato;
     }
 
     public int getId() { return id; }
@@ -17,4 +22,5 @@ public class Entidade {
 
     public Contato getContato(){ return contato; }
     public void setContato(Contato contato) { this.contato = contato; }
+
 }

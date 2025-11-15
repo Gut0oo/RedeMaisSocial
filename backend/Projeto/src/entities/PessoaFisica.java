@@ -3,10 +3,18 @@ package entities;
 import entities.PF_Info.Formacao;
 import entities.PF_Info.Identificacao;
 
-public class PessoaFisica {
+public class PessoaFisica extends Entidade{
     private String cpf;
     private Formacao formacao;
     private Identificacao identificacao;
+
+
+    public PessoaFisica(String nome, int id, Contato contato, String cpf, Formacao formacao, Identificacao identificacao) {
+        super(nome, id, contato);
+        this.cpf = cpf;
+        this.formacao = formacao;
+        this.identificacao = identificacao;
+    }
 
     PessoaFisica(){}
 
